@@ -1,3 +1,7 @@
+
+![Screenshot from 2023-10-18 10-02-53](https://github.com/WallisMark/next-auth-Authentication-Backend/assets/144102202/33c74f44-5dc5-4e04-9eec-8aeed726e320)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
